@@ -67,10 +67,10 @@ export default () => {
   }, []);
 
   return (<div>
-    <Header background="https://unsplash.com/photos/Sf8g7a3duRY">
+    <Header background="">
       <div>
         <a href="http://localhost:3000/">
-          <img alt="goodsexchange" src="https://unsplash.com/photos/rW-I87aPY5Y" />
+          <img alt="goodsexchange" src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" />
           <h1>@goodsexchange</h1>
           <p>Personal Wishlist</p>
         </a>

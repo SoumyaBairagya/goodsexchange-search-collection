@@ -5,7 +5,7 @@ import Color from 'color';
 // Exports
 // --------------------------------
 export const Header = styled.header`
-    background: ${props => props.background ? `url(${props.background}) center center` : 'lightgrey'};
+    background: ${props => props.background ? `url(${props.background}) center center` : 'black'};
     background-size: cover;
     width: 100%;
     height: 300px;
